@@ -1,0 +1,3 @@
+/geoip/*
+!/geoip/NOTICE
+/result.json
